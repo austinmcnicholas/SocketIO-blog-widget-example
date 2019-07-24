@@ -1,0 +1,24 @@
+<widget id="feathers-demo.widget.socketio-example" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>socketio-example</name>
+    <description>Dummy widget</description>
+    <icon/>
+    <properties>
+        <property key="service" type="string" required="false" defaultValue="">
+            <caption>service name</caption>
+            <category>Details</category>
+            <description>The service setup in your node js application</description>
+        </property>
+        <property key="url" type="string" required="false" defaultValue="">
+            <caption>service url</caption>
+            <category>Details</category>
+            <description>The url to your node js application</description>
+        </property>
+        <property key="microflow" type="microflow" required="false" defaultValue="">
+            <caption>Microflow</caption>
+            <category>Data</category>
+            <description>The url to your node js application</description>
+            <returnType type="Void" />
+        </property>      
+    </properties>
+</widget>
+ 

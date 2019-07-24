@@ -1,0 +1,9 @@
+Buildfile: C:\Users\admcn\Documents\Mendix\RealTimeExample\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 46 files to C:\Users\admcn\Documents\Mendix\RealTimeExample\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
